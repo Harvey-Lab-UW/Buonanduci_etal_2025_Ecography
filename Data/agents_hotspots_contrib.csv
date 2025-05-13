@@ -1,0 +1,52 @@
+region,code,common_name,contrib_prop
+SR,11002,western pine beetle,0.0058140983579325
+MR,11002,western pine beetle,0.00138265490378166
+C,11002,western pine beetle,0.2329663489030278
+SR,11006,mountain pine beetle,0.4881766156964044
+MR,11006,mountain pine beetle,0.665892792653356
+C,11006,mountain pine beetle,0.40556484477354815
+SR,11007,Douglas-fir beetle,0.07854846881566817
+MR,11007,Douglas-fir beetle,0.13550018057060312
+C,11007,Douglas-fir beetle,0.08306732390899944
+SR,11009,spruce beetle,0.2657292125219067
+MR,11009,spruce beetle,0.0929267915183408
+C,11009,spruce beetle,0.07965082191483355
+SR,11015,western balsam bark beetle,0.03698597141124778
+MR,11015,western balsam bark beetle,0.0704638084919775
+C,11015,western balsam bark beetle,0.04601420164600117
+SR,11019,pinyon ips,0.00133724262232447
+MR,11019,pinyon ips,NA
+C,11019,pinyon ips,0
+SR,11029,pine engraver,0.00931086322748905
+MR,11029,pine engraver,0.00200175411443017
+C,11029,pine engraver,0.00589201826959964
+SR,11030,ips engraver beetles,0.00226749835959367
+MR,11030,ips engraver beetles,0
+C,11030,ips engraver beetles,0.00553733903715445
+SR,11049,Douglas-fir engraver,4.319044494464147e-4
+MR,11049,Douglas-fir engraver,0
+C,11049,Douglas-fir engraver,0.00106403769733556
+SR,11050,fir engraver,0.05656287116788624
+MR,11050,fir engraver,1.5477480266212662e-4
+C,11050,fir engraver,0.5270750544685964
+SR,80002,subalpine fir mortality complex,0.27645207106489367
+MR,80002,subalpine fir mortality complex,0.1873497394624155
+C,80002,subalpine fir mortality complex,NA
+SR,80003,five-needle pine decline,0.06029219997176009
+MR,80003,five-needle pine decline,0.20528297993086725
+C,80003,five-needle pine decline,NA
+SR,80004,pinyon pine mortality,0.00182728805535021
+MR,80004,pinyon pine mortality,NA
+C,80004,pinyon pine mortality,NA
+SR,hotspot,NA,1
+MR,hotspot,NA,1
+C,hotspot,NA,1
+SR,11004,Jeffrey pine beetle,NA
+MR,11004,Jeffrey pine beetle,NA
+C,11004,Jeffrey pine beetle,0.04746911033419469
+SR,11044,silver fir beetle,NA
+MR,11044,silver fir beetle,NA
+C,11044,silver fir beetle,0.00222941231822689
+SR,11048,true fir bark beetles,NA
+MR,11048,true fir bark beetles,NA
+C,11048,true fir bark beetles,0
