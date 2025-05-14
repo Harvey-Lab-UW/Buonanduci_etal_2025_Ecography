@@ -1,4 +1,4 @@
-# Figure 7: Comparison of observed, predicted, fixed effects, random effects
+# Figure 5: Comparison of observed, predicted, fixed effects, random effects
 
 library(tidyverse)
 library(INLA)

@@ -73,17 +73,17 @@ This file contains a polygon perimeter for the Southern Rockies study region. Co
 #### analysis_INLA.R
 Code for fitting spatio-temporal models to hotspots data using R-INLA.
 
-#### figure_study_regions.R
-Code for producing Figure 1 in the manuscript.
-
 #### figure_observed_hotspots.R
-Code for producing Figures 2, 3, and 4 in the manuscript.
-
-#### figure_agents_hotspots_contrib.R
-Code for producing Figure 5 in the manuscript.
+Code for producing Figures 1, 2, and 3 in the manuscript.
 
 #### figure_coefficients.R
-Code for producing Figure 6 in the manuscript.
+Code for producing Figure 4 in the manuscript.
 
 #### figure_fitted_fixed_random.R
-Code for producing Figure 7 in the manuscript.
+Code for producing Figure 5 in the manuscript.
+
+#### figure_study_regions.R
+Code for producing Figure S1 in Appendix S1.
+
+#### figure_agents_hotspots_contrib.R
+Code for producing Figure S1 in Appendix S2.

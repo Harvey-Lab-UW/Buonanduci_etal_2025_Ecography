@@ -1,4 +1,4 @@
-# Figure 1: study regions
+# Appendix S1, Figure S1: study regions
 
 # Code to install rnaturalearth
 # devtools::install_github("ropenscilabs/rnaturalearthhires", force=TRUE)

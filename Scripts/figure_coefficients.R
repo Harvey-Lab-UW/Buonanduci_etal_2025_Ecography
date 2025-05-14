@@ -1,4 +1,4 @@
-# Figure 6: coefficients from INLA models
+# Figure 4: coefficients from INLA models
 
 library(INLA)
 library(tidyverse)

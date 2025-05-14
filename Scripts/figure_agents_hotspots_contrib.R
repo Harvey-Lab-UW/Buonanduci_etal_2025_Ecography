@@ -1,4 +1,4 @@
-# Figure 5: contribution of individual agents to hotspots
+# Appendix S2, Figure S1: contribution of individual agents to hotspots
 
 library(tidyverse)
 

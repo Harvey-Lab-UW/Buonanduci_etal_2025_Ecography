@@ -1,4 +1,4 @@
-# Figures 2, 3, 4: observed hotspots
+# Figures 1, 2, 3: observed hotspots
 
 # Code to install rnaturalearth
 # devtools::install_github("ropenscilabs/rnaturalearthhires", force=TRUE)
